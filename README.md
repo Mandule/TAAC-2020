@@ -14,7 +14,7 @@
 .
 ├── data (数据目录)
 │   ├── download.py (下载比赛数据)
-│   └── w2v (词向量牡蛎)
+│   └── w2v (词向量目录)
 ├── src
 │   ├── concat_feats.py (拼接特征)
 │   ├── get_lgb_feas.py (生成LGB特征)
